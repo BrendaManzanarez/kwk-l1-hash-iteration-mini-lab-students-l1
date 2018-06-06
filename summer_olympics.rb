@@ -7,7 +7,7 @@ summer_olympics = {
 "London" => "2012",
 }
 
-puts "The year thst the olympics in #{place} is #{year}
+puts "The year thst the olympics that took place in #{place} is #{year}
 
 place = ["Atlanta", "Sydney", "Athens", "Beijing", "London"]
 year = [1996, 2000, 2004, 2008, 2012]
