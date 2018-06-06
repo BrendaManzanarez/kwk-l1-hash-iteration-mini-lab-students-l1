@@ -1,6 +1,6 @@
 
 
-summer_oplympics = {
+summer_olympics = {
 "Atlanta" => 1996,
 "Sydney" => 2000,
 "Athens" => 2004,
