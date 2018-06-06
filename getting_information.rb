@@ -5,7 +5,7 @@ answer = gets #takes in input from the terminal with new line character (when yo
 #asnwer = gets.chomp
 #puts "I love #{answer}!"
 
-game_number = "75"
+game_number = "1"
 
 puts "Please input your frist name tribute"
 first_name = gets.chomp
@@ -13,4 +13,4 @@ first_name = gets.chomp
 puts "please input your last name: "
 last_name = gets.chomp
 
-puts "welcome to the #{game_number} the Legend of Zelda, #{first_name} #{last_name}"
+puts "welcome to the #{game_number}st Legend of Zelda, #{first_name} #{last_name}"
