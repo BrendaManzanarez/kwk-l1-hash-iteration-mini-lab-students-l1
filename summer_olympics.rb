@@ -10,7 +10,7 @@ summer_olympics = {
 puts "The year thst the olympics in #{place} is #{year}
 
 place = ["Atlanta", "Sydney", "Athens", "Beijing", "London"]
-year = ["1996", "2000", "2004", "2008", "2012"]
+year = [1996, 2000, 2004, 2008, 2012]
 
 place.each do
 
