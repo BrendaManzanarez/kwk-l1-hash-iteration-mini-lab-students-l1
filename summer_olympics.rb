@@ -1,5 +1,4 @@
 
-
 summer_olympics = {
 "Atlanta" => 1996,
 "Sydney" => 2000,
@@ -14,3 +13,5 @@ place = ["Atlanta", "Sydney", "Athens", "Beijing", "London"]
 year = [1996, 2000, 2004, 2008, 2012]
 
 place.each do
+
+end 
