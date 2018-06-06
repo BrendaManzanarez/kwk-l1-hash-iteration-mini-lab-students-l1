@@ -13,4 +13,4 @@ first_name = gets.chomp
 puts "please input your last name: "
 last_name = gets.chomp
 
-puts "welcome to the #{game_number} the hunger games, #{first_name} #{last_name}"
+puts "welcome to the #{game_number} the Legend of Zelda, #{first_name} #{last_name}"
